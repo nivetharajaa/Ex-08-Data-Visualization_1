@@ -1,4 +1,4 @@
-# Ex-08-Data-Visualization-
+# Ex-09-Data-Visualization-
 
 ## AIM
 
@@ -206,7 +206,7 @@ plt.show()
 ![image](https://github.com/nivetharajaa/Ex-08-Data-Visualization_1/assets/120543388/733b0b05-32fe-4e03-abc9-b84424c80f61)
 
 
-##RESULT
+# RESULT
 
 Thus the Data Visualization method is performed to the given data and to predict the outcome for the given questions.
 
